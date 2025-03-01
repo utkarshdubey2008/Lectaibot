@@ -2,7 +2,7 @@ import telebot
 from lectai import LectAI  # Import your custom library
 
 # Initialize Telegram bot
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "5866712065:AAGmj5tnealwuEkvgojXC-MpGF7DeHqMGB0"
 bot = telebot.TeleBot(TOKEN)
 
 # Initialize LectAI client
