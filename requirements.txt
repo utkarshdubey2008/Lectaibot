@@ -1,2 +1,2 @@
 git+https://github.com/utkarshdubey2008/Lectai.git
-python-telegram-bot
+telebot
